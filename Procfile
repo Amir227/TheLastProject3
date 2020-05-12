@@ -1,1 +1,1 @@
-worker: python vk_server.py
+worker: python vk_server
