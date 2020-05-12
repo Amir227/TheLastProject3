@@ -1,0 +1,3 @@
+открой браузер,браузер,browser@start browser
+открой картинку,картинка@start image
+открой блокнот,блокнот@start notepad
